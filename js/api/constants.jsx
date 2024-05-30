@@ -1,5 +1,6 @@
 const API_URL = ' https://todo-api.coderslab.pl/api';
-const API_KEY = 'd587b41c-799d-4068-a566-90c542af8502';
+
+const API_KEY = import.meta.env.VITE_API_KEY;
 
 export  {API_URL, API_KEY};
 
