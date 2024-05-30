@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Button from './button';
+import Button from './button.jsx';
 import { createTask } from '../api/tasks';
 
 function NewTask({ onNewTask }) {

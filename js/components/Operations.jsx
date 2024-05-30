@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import Operation from './Operation';
 import { createOperation } from '../api/operations';
-import Button from './Button';
+import Button from './button.jsx';
 
 function Operations({ taskID, form, setForm, operations, setOperations, status }) {
     const [operationDescription, setOperationDescription] = useState('');
