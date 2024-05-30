@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { createRoot } from 'react-dom/client';
-import NewTask from './components/NewTask';
-import Task from './components/Task';
+import NewTask from './components/NewTask.jsx';
+import Task from './components/Task.jsx';
 import { getTasks } from './api/tasks';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
