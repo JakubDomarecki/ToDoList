@@ -58,7 +58,7 @@ function Task({ title, description, id, status: _status, onRemoveTask }) {
                         <Button
                             color={'danger'}
                             outline
-                            size={'sm'}
+                            small
                             onClick={handleRemove}
                             className="ml-2"
                         >

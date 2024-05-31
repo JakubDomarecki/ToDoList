@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import { removeOperation, updateOperation } from '../api/operations';
 import Button from './button.jsx';
-
 function Operation({ description, id, onRemoveOperation, timeSpent: _timeSpent, status }) {
     const [timeSpentForm, setTimeSpentForm] = useState(false);
     const [timeSpent, setTimeSpent] = useState(_timeSpent);
