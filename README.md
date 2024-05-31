@@ -26,7 +26,6 @@ If you want to see how my application works in action, you can check it out [her
 
 ## FEATURES
 - adding, deleting tasks,
-- terminating tasks,
 - adding, deleting operations to tasks,
 
 ## SOON -> time counter
