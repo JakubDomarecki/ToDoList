@@ -43,7 +43,7 @@ function Operation({ description, id, onRemoveOperation, timeSpent: _timeSpent, 
             <div>
                 {description}
                 {timeSpent > 0 && (
-                    <span className="badge badge-success badge-pill ml-2">
+                    <span className="badge bg-success ml-2">
             {hours}h {minutes}m
           </span>
                 )}
