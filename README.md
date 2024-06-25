@@ -28,4 +28,5 @@ If you want to see how my application works in action, you can check it out [her
 - adding, deleting tasks,
 - adding, deleting operations to tasks,
 
-![image](https://github.com/JakubDomarecki/ToDoList/assets/160236789/e8a16b73-306f-48de-898f-e48af0599353)
+![image](https://github.com/JakubDomarecki/ToDoList/assets/160236789/fc08ea4e-79e4-49e4-b67f-49143e5c9968)
+
